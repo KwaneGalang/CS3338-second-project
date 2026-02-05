@@ -1,0 +1,45 @@
+commit fd3b31ce226491aa31258098df1ae8b256d1ed3f
+Merge: 23c67ba a1b7958
+Author: Kwane Galang <kgalang@calstatela.edu>
+Date:   Wed Feb 4 22:01:57 2026 -0800
+
+    Resolved the merge conflicts in index.html file
+
+commit a1b7958b54ef6e14f0cd9cdf5307386f58c47e48
+Author: Kwane Galang <kgalang@calstatela.edu>
+Date:   Wed Feb 4 21:52:48 2026 -0800
+
+    Added a div line with my favorite vide game in index.html file
+
+commit 23c67bada94cf20585166a65713949a5a73bc23e
+Author: Kwane Galang <kgalang@calstatela.edu>
+Date:   Wed Feb 4 21:51:33 2026 -0800
+
+    Added a div line with my favorite food in index.html file
+
+commit 93ee3d6f4b810022105e7a4a7803653e5e0db592
+Author: Kwane Galang <kgalang@calstatela.edu>
+Date:   Wed Feb 4 21:48:49 2026 -0800
+
+    Added a README file with a description of the repo
+
+commit 7c98776d2a321ebd20145e83dc4ca38bccce4287
+Merge: 1d2bfc0 762fd30
+Author: Kwane Galang <kgalang@calstatela.edu>
+Date:   Wed Feb 4 21:44:39 2026 -0800
+
+    Merge pull request #1 from KwaneGalang/info-fill
+    
+    Filled in the blanks of the index.html file
+
+commit 762fd309b48434c83711ea2d97bfcf4dd13584f3
+Author: Kwane Galang <kgalang@calstatela.edu>
+Date:   Wed Feb 4 21:39:51 2026 -0800
+
+    Filled in the blanks of the index.html file
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
